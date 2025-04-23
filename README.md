@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Rafid</h1>
 
 # 💫 About Me:
-A passionate linux administrator from Indonesia<br>
+I'm currently studying as a Data Science Student<br>
 
 
 ## 🌐 Socials:
